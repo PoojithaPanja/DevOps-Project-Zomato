@@ -67,7 +67,7 @@ const Cities = () => {
         <div className="city">
           <div className="cityLeft">
             <h3>Prahalad Nagar</h3>
-            <span>181 Places</span>
+            <span>170 Places</span>
           </div>
           <div className="icon">
             <ChevronRightIcon />
